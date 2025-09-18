@@ -21,7 +21,7 @@ function show_banner() {
     echo "██╔══██║██║   ██║   ██║   ██║   ██║    ██║╚██╗██║██║╚██╔╝██║██╔══██║██╔═══╝ "
     echo "██║  ██║╚██████╔╝   ██║   ╚██████╔╝    ██║ ╚████║██║ ╚═╝ ██║██║  ██║██║     "
     echo "╚═╝  ╚═╝ ╚═════╝    ╚═╝    ╚═════╝     ╚═╝  ╚═══╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝    "
-    echo "                     Created by Shaid Mahamud                              "
+    echo "                     Created by MD FAYJUL KABIR                              "
     echo -e "${RESET}"
 }
 
