@@ -19,7 +19,7 @@ The **NAX → Nmap Automation X** tool is a powerful, user-friendly Bash script 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/shaid69/Auto-Nmap.git
+   git clone https://github.com/Mdfayjulkabir/NAX-Nmap-Automation-X
    ```
 
 2. **Make the Script Executable**:
